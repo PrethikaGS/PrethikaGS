@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prethikags&label=Profile%20views&color=0e75b6&style=flat" alt="prethikags" /> </p>
 
-- 🔭 I’m currently working on **Natural Language processing and Large Language Models**
-
 - 🌱 I’m currently learning **Machine learning and Deep learning concepts**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PrethikaGS](https://github.com/PrethikaGS)
